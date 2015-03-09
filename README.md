@@ -1,0 +1,2 @@
+# degishmeler
+Turkmen dilinde degishmeler
